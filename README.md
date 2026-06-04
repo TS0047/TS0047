@@ -56,14 +56,14 @@ I'm a B.Tech IT student at **CEG, Anna University**, building at the intersectio
 
 <div align="center">
 
-| Project | What it is | Stars | Last commit |
-|---------|------------|:-----:|:-----------:|
-| [**nhai-faceauth**](https://github.com/ts0047/nhai-faceauth) | Offline on-device face recognition + liveness (React Native + TFLite) | ![](https://img.shields.io/github/stars/ts0047/nhai-faceauth?style=flat-square&label=&color=00d9ff) | ![](https://img.shields.io/github/last-commit/ts0047/nhai-faceauth?style=flat-square&label=&color=blue) |
-| [**roamie**](https://github.com/ts0047/roamie) | Multi-agent travel planner (smolagents + HuggingFace) | ![](https://img.shields.io/github/stars/ts0047/roamie?style=flat-square&label=&color=00d9ff) | ![](https://img.shields.io/github/last-commit/ts0047/roamie?style=flat-square&label=&color=blue) |
-| [**maya**](https://github.com/ts0047/maya) | Fully offline voice assistant (Whisper + Ollama + Kokoro) | ![](https://img.shields.io/github/stars/ts0047/maya?style=flat-square&label=&color=00d9ff) | ![](https://img.shields.io/github/last-commit/ts0047/maya?style=flat-square&label=&color=blue) |
-| [**task_master**](https://github.com/ts0047/task_master) | Self-refining agentic planner (LangGraph + Ollama) | ![](https://img.shields.io/github/stars/ts0047/task_master?style=flat-square&label=&color=00d9ff) | ![](https://img.shields.io/github/last-commit/ts0047/task_master?style=flat-square&label=&color=blue) |
-| [**Smart_home_usingLLMs**](https://github.com/ts0047/Smart_home_usingLLMs) | Natural-language smart home control via LLMs | ![](https://img.shields.io/github/stars/ts0047/Smart_home_usingLLMs?style=flat-square&label=&color=00d9ff) | ![](https://img.shields.io/github/last-commit/ts0047/Smart_home_usingLLMs?style=flat-square&label=&color=blue) |
-| [**MotorLeakageFinder_usingML**](https://github.com/ts0047/MotorLeakageFinder_usingML) | Real-time engine leak detection (PyTorch + Flask) | ![](https://img.shields.io/github/stars/ts0047/MotorLeakageFinder_usingML?style=flat-square&label=&color=00d9ff) | ![](https://img.shields.io/github/last-commit/ts0047/MotorLeakageFinder_usingML?style=flat-square&label=&color=blue) |
+| Project | What it is | Tech | Last commit |
+|---------|------------|------|:-----------:|
+| [**nhai-faceauth**](https://github.com/ts0047/nhai-faceauth) | Offline on-device face recognition + liveness | `React Native` `TFLite` | ![](https://img.shields.io/github/last-commit/ts0047/nhai-faceauth?style=flat-square&label=&color=00d9ff) |
+| [**roamie**](https://github.com/ts0047/roamie) | Multi-agent travel planner | `smolagents` `HuggingFace` | ![](https://img.shields.io/github/last-commit/ts0047/roamie?style=flat-square&label=&color=00d9ff) |
+| [**maya**](https://github.com/ts0047/maya) | Fully offline voice assistant | `Whisper` `Ollama` `Kokoro` | ![](https://img.shields.io/github/last-commit/ts0047/maya?style=flat-square&label=&color=00d9ff) |
+| [**task_master**](https://github.com/ts0047/task_master) | Self-refining agentic planner | `LangGraph` `Ollama` | ![](https://img.shields.io/github/last-commit/ts0047/task_master?style=flat-square&label=&color=00d9ff) |
+| [**Smart_home_usingLLMs**](https://github.com/ts0047/Smart_home_usingLLMs) | Natural-language smart home control | `LLM` `Python` | ![](https://img.shields.io/github/last-commit/ts0047/Smart_home_usingLLMs?style=flat-square&label=&color=00d9ff) |
+| [**MotorLeakageFinder_usingML**](https://github.com/ts0047/MotorLeakageFinder_usingML) | Real-time engine leak detection | `PyTorch` `Flask` | ![](https://img.shields.io/github/last-commit/ts0047/MotorLeakageFinder_usingML?style=flat-square&label=&color=00d9ff) |
 
 </div>
 
