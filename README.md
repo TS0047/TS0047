@@ -93,3 +93,6 @@ I'm a B.Tech IT student at **CEG, Anna University**, building at the intersectio
 <div align="center">
   <sub>Building at the edge — where compute is scarce and reliability is everything.</sub>
 </div>
+
+<!-- NEETCODE-START -->
+<!-- NEETCODE-END -->
