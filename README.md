@@ -95,4 +95,23 @@ I'm a B.Tech IT student at **CEG, Anna University**, building at the intersectio
 </div>
 
 <!-- NEETCODE-START -->
+<div align="center">
+
+## 🧠 NeetCode Grind
+
+![Problems](https://img.shields.io/badge/Solved-9_problems-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
+![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Updated](https://img.shields.io/badge/Updated-Jun_18,_2026-blue?style=for-the-badge)
+
+```
+Progress  [█░░░░░░░░░░░░░░░░░░░]  9/150+
+```
+
+| Category | Solved |
+|:---------|:------:|
+| 💡 DS&A | `9` |
+
+> 🔄 Auto-updated daily · [View repo](https://github.com/TS0047/neetcode-submissions)
+
+</div>
 <!-- NEETCODE-END -->
