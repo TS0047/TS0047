@@ -99,17 +99,17 @@ I'm a B.Tech IT student at **CEG, Anna University**, building at the intersectio
 
 ## 🧠 NeetCode Grind
 
-![Problems](https://img.shields.io/badge/Solved-34_problems-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
+![Problems](https://img.shields.io/badge/Solved-37_problems-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Updated](https://img.shields.io/badge/Updated-Jun_25,_2026-blue?style=for-the-badge)
+![Updated](https://img.shields.io/badge/Updated-Jun_26,_2026-blue?style=for-the-badge)
 
 ```
-Progress  [████░░░░░░░░░░░░░░░░]  34/150+
+Progress  [████░░░░░░░░░░░░░░░░]  37/150+
 ```
 
 | Category | Solved |
 |:---------|:------:|
-| 💡 DS&A | `28` |
+| 💡 DS&A | `31` |
 | 💡 Python Coding Interviews | `6` |
 
 > 🔄 Auto-updated daily · [View repo](https://github.com/TS0047/neetcode-submissions)
