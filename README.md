@@ -101,7 +101,7 @@ I'm a B.Tech IT student at **CEG, Anna University**, building at the intersectio
 
 ![Problems](https://img.shields.io/badge/Solved-47_problems-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Updated](https://img.shields.io/badge/Updated-Jul_01,_2026-blue?style=for-the-badge)
+![Updated](https://img.shields.io/badge/Updated-Jul_02,_2026-blue?style=for-the-badge)
 
 ```
 Progress  [██████░░░░░░░░░░░░░░]  47/150+
